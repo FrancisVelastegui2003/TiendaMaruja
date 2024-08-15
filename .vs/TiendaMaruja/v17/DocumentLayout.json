@@ -1,0 +1,242 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Sebastian Aisalla\\source\\repos\\TiendaMaruja\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8B9677EF-AC76-43B7-A025-E950B2D28513}|TiendaMaruja\\TiendaMaruja.csproj|c:\\users\\sebastian aisalla\\source\\repos\\tiendamaruja\\tiendamaruja\\frmdetalle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B9677EF-AC76-43B7-A025-E950B2D28513}|TiendaMaruja\\TiendaMaruja.csproj|solutionrelative:tiendamaruja\\frmdetalle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B9677EF-AC76-43B7-A025-E950B2D28513}|TiendaMaruja\\TiendaMaruja.csproj|c:\\users\\sebastian aisalla\\source\\repos\\tiendamaruja\\tiendamaruja\\frminicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8B9677EF-AC76-43B7-A025-E950B2D28513}|TiendaMaruja\\TiendaMaruja.csproj|solutionrelative:tiendamaruja\\frminicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B9677EF-AC76-43B7-A025-E950B2D28513}|TiendaMaruja\\TiendaMaruja.csproj|c:\\users\\sebastian aisalla\\source\\repos\\tiendamaruja\\tiendamaruja\\frminicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B9677EF-AC76-43B7-A025-E950B2D28513}|TiendaMaruja\\TiendaMaruja.csproj|solutionrelative:tiendamaruja\\frminicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B9677EF-AC76-43B7-A025-E950B2D28513}|TiendaMaruja\\TiendaMaruja.csproj|c:\\users\\sebastian aisalla\\source\\repos\\tiendamaruja\\tiendamaruja\\frmcrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B9677EF-AC76-43B7-A025-E950B2D28513}|TiendaMaruja\\TiendaMaruja.csproj|solutionrelative:tiendamaruja\\frmcrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B9677EF-AC76-43B7-A025-E950B2D28513}|TiendaMaruja\\TiendaMaruja.csproj|c:\\users\\sebastian aisalla\\source\\repos\\tiendamaruja\\tiendamaruja\\frmcrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8B9677EF-AC76-43B7-A025-E950B2D28513}|TiendaMaruja\\TiendaMaruja.csproj|solutionrelative:tiendamaruja\\frmcrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B9677EF-AC76-43B7-A025-E950B2D28513}|TiendaMaruja\\TiendaMaruja.csproj|c:\\users\\sebastian aisalla\\source\\repos\\tiendamaruja\\tiendamaruja\\frmtotal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8B9677EF-AC76-43B7-A025-E950B2D28513}|TiendaMaruja\\TiendaMaruja.csproj|solutionrelative:tiendamaruja\\frmtotal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B9677EF-AC76-43B7-A025-E950B2D28513}|TiendaMaruja\\TiendaMaruja.csproj|c:\\users\\sebastian aisalla\\source\\repos\\tiendamaruja\\tiendamaruja\\frmverificar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B9677EF-AC76-43B7-A025-E950B2D28513}|TiendaMaruja\\TiendaMaruja.csproj|solutionrelative:tiendamaruja\\frmverificar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B9677EF-AC76-43B7-A025-E950B2D28513}|TiendaMaruja\\TiendaMaruja.csproj|c:\\users\\sebastian aisalla\\source\\repos\\tiendamaruja\\tiendamaruja\\frmverificar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8B9677EF-AC76-43B7-A025-E950B2D28513}|TiendaMaruja\\TiendaMaruja.csproj|solutionrelative:tiendamaruja\\frmverificar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B9677EF-AC76-43B7-A025-E950B2D28513}|TiendaMaruja\\TiendaMaruja.csproj|c:\\users\\sebastian aisalla\\source\\repos\\tiendamaruja\\tiendamaruja\\frmcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B9677EF-AC76-43B7-A025-E950B2D28513}|TiendaMaruja\\TiendaMaruja.csproj|solutionrelative:tiendamaruja\\frmcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B9677EF-AC76-43B7-A025-E950B2D28513}|TiendaMaruja\\TiendaMaruja.csproj|c:\\users\\sebastian aisalla\\source\\repos\\tiendamaruja\\tiendamaruja\\frmcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8B9677EF-AC76-43B7-A025-E950B2D28513}|TiendaMaruja\\TiendaMaruja.csproj|solutionrelative:tiendamaruja\\frmcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B9677EF-AC76-43B7-A025-E950B2D28513}|TiendaMaruja\\TiendaMaruja.csproj|c:\\users\\sebastian aisalla\\source\\repos\\tiendamaruja\\tiendamaruja\\frmmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8B9677EF-AC76-43B7-A025-E950B2D28513}|TiendaMaruja\\TiendaMaruja.csproj|solutionrelative:tiendamaruja\\frmmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B9677EF-AC76-43B7-A025-E950B2D28513}|TiendaMaruja\\TiendaMaruja.csproj|c:\\users\\sebastian aisalla\\source\\repos\\tiendamaruja\\tiendamaruja\\frmtotal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B9677EF-AC76-43B7-A025-E950B2D28513}|TiendaMaruja\\TiendaMaruja.csproj|solutionrelative:tiendamaruja\\frmtotal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B9677EF-AC76-43B7-A025-E950B2D28513}|TiendaMaruja\\TiendaMaruja.csproj|c:\\users\\sebastian aisalla\\source\\repos\\tiendamaruja\\tiendamaruja\\frmdetalle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8B9677EF-AC76-43B7-A025-E950B2D28513}|TiendaMaruja\\TiendaMaruja.csproj|solutionrelative:tiendamaruja\\frmdetalle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmInicio.cs",
+              "DocumentMoniker": "C:\\Users\\Sebastian Aisalla\\source\\repos\\TiendaMaruja\\TiendaMaruja\\frmInicio.cs",
+              "RelativeDocumentMoniker": "TiendaMaruja\\frmInicio.cs",
+              "ToolTip": "C:\\Users\\Sebastian Aisalla\\source\\repos\\TiendaMaruja\\TiendaMaruja\\frmInicio.cs",
+              "RelativeToolTip": "TiendaMaruja\\frmInicio.cs",
+              "ViewState": "AQIAAB8AAACAzWMPMgYCwCMAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T20:47:44.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmInicio.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Sebastian Aisalla\\source\\repos\\TiendaMaruja\\TiendaMaruja\\frmInicio.cs",
+              "RelativeDocumentMoniker": "TiendaMaruja\\frmInicio.cs",
+              "ToolTip": "C:\\Users\\Sebastian Aisalla\\source\\repos\\TiendaMaruja\\TiendaMaruja\\frmInicio.cs [Dise\u00F1o]",
+              "RelativeToolTip": "TiendaMaruja\\frmInicio.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T20:47:42.864Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmCRUD.cs",
+              "DocumentMoniker": "C:\\Users\\Sebastian Aisalla\\source\\repos\\TiendaMaruja\\TiendaMaruja\\frmCRUD.cs",
+              "RelativeDocumentMoniker": "TiendaMaruja\\frmCRUD.cs",
+              "ToolTip": "C:\\Users\\Sebastian Aisalla\\source\\repos\\TiendaMaruja\\TiendaMaruja\\frmCRUD.cs",
+              "RelativeToolTip": "TiendaMaruja\\frmCRUD.cs",
+              "ViewState": "AQIAAIgAAAAAAAAAAADwv/cAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T20:39:55.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmCRUD.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Sebastian Aisalla\\source\\repos\\TiendaMaruja\\TiendaMaruja\\frmCRUD.cs",
+              "RelativeDocumentMoniker": "TiendaMaruja\\frmCRUD.cs",
+              "ToolTip": "C:\\Users\\Sebastian Aisalla\\source\\repos\\TiendaMaruja\\TiendaMaruja\\frmCRUD.cs [Dise\u00F1o]",
+              "RelativeToolTip": "TiendaMaruja\\frmCRUD.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T20:39:52.777Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmDetalle.cs",
+              "DocumentMoniker": "C:\\Users\\Sebastian Aisalla\\source\\repos\\TiendaMaruja\\TiendaMaruja\\frmDetalle.cs",
+              "RelativeDocumentMoniker": "TiendaMaruja\\frmDetalle.cs",
+              "ToolTip": "C:\\Users\\Sebastian Aisalla\\source\\repos\\TiendaMaruja\\TiendaMaruja\\frmDetalle.cs",
+              "RelativeToolTip": "TiendaMaruja\\frmDetalle.cs",
+              "ViewState": "AQIAANgAAAAAAAAAAAAUwN4AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T19:52:12.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "frmDetalle.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Sebastian Aisalla\\source\\repos\\TiendaMaruja\\TiendaMaruja\\frmDetalle.cs",
+              "RelativeDocumentMoniker": "TiendaMaruja\\frmDetalle.cs",
+              "ToolTip": "C:\\Users\\Sebastian Aisalla\\source\\repos\\TiendaMaruja\\TiendaMaruja\\frmDetalle.cs [Dise\u00F1o]",
+              "RelativeToolTip": "TiendaMaruja\\frmDetalle.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T19:41:38.417Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "frmTotal.cs",
+              "DocumentMoniker": "C:\\Users\\Sebastian Aisalla\\source\\repos\\TiendaMaruja\\TiendaMaruja\\frmTotal.cs",
+              "RelativeDocumentMoniker": "TiendaMaruja\\frmTotal.cs",
+              "ToolTip": "C:\\Users\\Sebastian Aisalla\\source\\repos\\TiendaMaruja\\TiendaMaruja\\frmTotal.cs",
+              "RelativeToolTip": "TiendaMaruja\\frmTotal.cs",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAAAFUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T19:38:37.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmTotal.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Sebastian Aisalla\\source\\repos\\TiendaMaruja\\TiendaMaruja\\frmTotal.cs",
+              "RelativeDocumentMoniker": "TiendaMaruja\\frmTotal.cs",
+              "ToolTip": "C:\\Users\\Sebastian Aisalla\\source\\repos\\TiendaMaruja\\TiendaMaruja\\frmTotal.cs [Dise\u00F1o]",
+              "RelativeToolTip": "TiendaMaruja\\frmTotal.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T19:38:36.221Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frmVerificar.cs",
+              "DocumentMoniker": "C:\\Users\\Sebastian Aisalla\\source\\repos\\TiendaMaruja\\TiendaMaruja\\frmVerificar.cs",
+              "RelativeDocumentMoniker": "TiendaMaruja\\frmVerificar.cs",
+              "ToolTip": "C:\\Users\\Sebastian Aisalla\\source\\repos\\TiendaMaruja\\TiendaMaruja\\frmVerificar.cs",
+              "RelativeToolTip": "TiendaMaruja\\frmVerificar.cs",
+              "ViewState": "AQIAAHoAAAAAAAAAAAAAwIwAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T19:13:10.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "frmVerificar.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Sebastian Aisalla\\source\\repos\\TiendaMaruja\\TiendaMaruja\\frmVerificar.cs",
+              "RelativeDocumentMoniker": "TiendaMaruja\\frmVerificar.cs",
+              "ToolTip": "C:\\Users\\Sebastian Aisalla\\source\\repos\\TiendaMaruja\\TiendaMaruja\\frmVerificar.cs [Dise\u00F1o]",
+              "RelativeToolTip": "TiendaMaruja\\frmVerificar.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T19:13:07.819Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "frmCliente.cs",
+              "DocumentMoniker": "C:\\Users\\Sebastian Aisalla\\source\\repos\\TiendaMaruja\\TiendaMaruja\\frmCliente.cs",
+              "RelativeDocumentMoniker": "TiendaMaruja\\frmCliente.cs",
+              "ToolTip": "C:\\Users\\Sebastian Aisalla\\source\\repos\\TiendaMaruja\\TiendaMaruja\\frmCliente.cs",
+              "RelativeToolTip": "TiendaMaruja\\frmCliente.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAAAYwEYAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T19:09:36.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "frmCliente.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Sebastian Aisalla\\source\\repos\\TiendaMaruja\\TiendaMaruja\\frmCliente.cs",
+              "RelativeDocumentMoniker": "TiendaMaruja\\frmCliente.cs",
+              "ToolTip": "C:\\Users\\Sebastian Aisalla\\source\\repos\\TiendaMaruja\\TiendaMaruja\\frmCliente.cs [Dise\u00F1o]",
+              "RelativeToolTip": "TiendaMaruja\\frmCliente.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T19:09:33.643Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "frmMenu.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Sebastian Aisalla\\source\\repos\\TiendaMaruja\\TiendaMaruja\\frmMenu.cs",
+              "RelativeDocumentMoniker": "TiendaMaruja\\frmMenu.cs",
+              "ToolTip": "C:\\Users\\Sebastian Aisalla\\source\\repos\\TiendaMaruja\\TiendaMaruja\\frmMenu.cs [Dise\u00F1o]",
+              "RelativeToolTip": "TiendaMaruja\\frmMenu.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T15:04:33.782Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
